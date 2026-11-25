@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solucion/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/Pruebas/">
+    <Project Path="HotelManagement.IntegrationTests/HotelManagement.IntegrationTests.csproj" />
+    <Project Path="HotelManagement.Tests/HotelManagement.Tests.csproj" />
+  </Folder>
+  <Project Path="Gestion del Hotel Crown/Gestion del Hotel Crown.csproj" />
+  <Project Path="HotelApp.W/HotelApp.W.csproj" />
+  <Project Path="HotelManagement.BL/HotelManagement.BL.csproj" />
+  <Project Path="HotelManagement.DAL/HotelManagement.DAL.csproj" />
+  <Project Path="HotelManagement.Entities/HotelManagement.Entities.csproj" />
+</Solution>

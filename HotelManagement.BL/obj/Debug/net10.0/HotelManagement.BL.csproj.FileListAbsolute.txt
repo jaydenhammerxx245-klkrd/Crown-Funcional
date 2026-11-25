@@ -1,0 +1,31 @@
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.BL.deps.json
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.BL.dll
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.BL.pdb
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.Entities.dll
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.Entities.pdb
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.csproj.AssemblyReference.cache
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.AssemblyInfoInputs.cache
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.AssemblyInfo.cs
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.csproj.CoreCompileInputs.cache
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\HotelMan.19F7AFA9.Up2Date
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.dll
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\refint\HotelManagement.BL.dll
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.pdb
+C:\Users\jayde\AppData\Local\Temp\opencode\ghc-download\ghc-refactor-capa-api-y-desacoplamiento\HotelManagement.BL\obj\Debug\net10.0\ref\HotelManagement.BL.dll
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.BL.deps.json
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.BL.dll
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.BL.pdb
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.Entities.dll
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\bin\Debug\net10.0\HotelManagement.Entities.pdb
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.csproj.AssemblyReference.cache
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.AssemblyInfoInputs.cache
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.AssemblyInfo.cs
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.csproj.CoreCompileInputs.cache
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.sourcelink.json
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\HotelMan.19F7AFA9.Up2Date
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.dll
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\refint\HotelManagement.BL.dll
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\HotelManagement.BL.pdb
+C:\Users\jayde\source\repos\Gestion del Hotel Crown\HotelManagement.BL\obj\Debug\net10.0\ref\HotelManagement.BL.dll
